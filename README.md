@@ -4,16 +4,7 @@ I'm Pete, a learning Developer. My goal is to maintain a few programming languag
 
 **My socials**
 
-Steam - Private
-Epic Games - Private
-Github - PeteShare
-YouTube - Private
-Snapchat - Private
-Instagram - Private
-TikTok - Private
-Discord - i forgor lol
-
-:D
+null
 
 
 **About the projects I share**
